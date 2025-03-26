@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/projct for project/cmake-build-debug/CMakeFiles/projct_for_project.dir
+/Users/furkanaskin/Desktop/C Projeler/projct for project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/projct for project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
